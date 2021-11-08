@@ -1,3 +1,6 @@
 # Simple-Demo-MVVM
  I am used a simple demo of MVVM to show Binding data in TableView by API of top app free in-app store
-https://user-images.githubusercontent.com/41602889/140686408-013692aa-64de-42e8-8ec6-e31eca5da81c.mov
+ 
+##TopFreeApp 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/140686607-dad4f173-fe89-46bb-afdc-ede9f8cf022d.gif)
